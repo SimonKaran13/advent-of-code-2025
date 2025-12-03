@@ -1,3 +1,6 @@
 node_modules
 .idea
-input/
+
+# Ignore puzzle inputs (personal to each user) but keep test inputs
+input/day*.txt
+!input/day*-test.txt
