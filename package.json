@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "day1": "tsx src/day01.ts",
-    "day2": "tsx src/day02.ts"
+    "day2": "tsx src/day02.ts",
+    "day3": "tsx src/day03.ts"
   },
   "keywords": [],
   "author": "",
