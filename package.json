@@ -7,7 +7,9 @@
     "day1": "tsx src/day01.ts",
     "day2": "tsx src/day02.ts",
     "day3": "tsx src/day03.ts",
-    "day4": "tsx src/day04.ts"
+    "day4": "tsx src/day04.ts",
+    "day5": "tsx src/day05.ts"
+
   },
   "keywords": [],
   "author": "",
