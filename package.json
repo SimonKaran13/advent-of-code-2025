@@ -8,8 +8,13 @@
     "day2": "tsx src/day02.ts",
     "day3": "tsx src/day03.ts",
     "day4": "tsx src/day04.ts",
-    "day5": "tsx src/day05.ts"
-
+    "day5": "tsx src/day05.ts",
+    "day6": "tsx src/day06.ts",
+    "day7": "tsx src/day07.ts",
+    "day8": "tsx src/day08.ts",
+    "day9": "tsx src/day09.ts",
+    "day10": "tsx src/day10.ts",
+    "day11": "tsx src/day11.ts"
   },
   "keywords": [],
   "author": "",
